@@ -1,0 +1,62 @@
+/* .sports{
+    background-color: red;
+    max-width: 300px;
+}
+.section1{
+    background-color: red;
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    height:300px;
+    width:500px;
+
+    
+}
+.image{
+    margin-left: 290px;
+}
+
+.para{
+    margin-top: -100px;
+}
+.ipl{
+    background-color: beige;
+    max-width: 300px;
+}
+.section2{
+    background-color: aliceblue;
+    border: 2px solid black;
+} */
+.maindiv{
+    background-color: rgb(252, 77, 106);
+    min-height:200px;
+    min-width: 50px;
+
+}
+.about{
+    width: 50%;
+}
+.img{
+    float: right;
+    margin-top: -95px;
+    margin-right: 300px;
+   
+}
+.maindiv1{
+    background-color: beige;
+    min-height: 200px;
+    min-width: 50px;
+    text-align: center;
+    
+}
+.article{
+    width: 50%
+}
+.photo{
+    float: left;
+    margin-top: -100px;
+    margin-right: 300px;
+    height: 150px;
+    width: 15opx;
+    
+}
